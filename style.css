@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+div{
+    width: 20%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.mood-buttons{
+    width: 70%;
+    margin-top: 15px;
+}
+
+button{
+    margin: 10px 0px 5px 0px;
+}
